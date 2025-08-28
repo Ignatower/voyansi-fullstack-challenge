@@ -48,4 +48,6 @@ yarn-error.log
 
 backend/node_modules/.package-lock.json
 frontend/node_modules/.vite/deps/_metadata.json
+backend/.env
+frontend/.env
 

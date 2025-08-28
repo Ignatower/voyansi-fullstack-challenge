@@ -23,7 +23,7 @@ This is a Node.js + Express backend for fetching and parsing a CSV file from an 
 
 ## Environment Variables
 
-Create a `.env` file in the root dir:
+Create a `.env` file in the backend dir:
 
 ```env
 PORT=3000
